@@ -1,0 +1,20 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "~bulma/bulma.sass";
+@import "bulma-extensions";
+
+//Customisation
+input[type=text]:disabled {
+     background: none;
+     color: black;
+}
+
+input[type=number]:disabled {
+     background: none;
+     color: black;
+}
+
+
