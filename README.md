@@ -4,7 +4,7 @@ Docker version of the [High Frequency Jet Ventlation Database](https://github.co
 
 ## Installation
 
-Tested on a Ubuntu 18.04
+Tested on Ubuntu 18.04
 
 - Clone repository
 - `cd laradock`
